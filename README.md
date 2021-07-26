@@ -4,7 +4,7 @@ This project was my first big Agent Based Computational Economic Model
 Run `python main.py`
 ## Details
 This is a model built mostly from New Keynesian foundations as specified in Jordi Galí's **Monetary Policy, Inflation and the Business Cycle**,
-although I've taken liberty to extend and modify it in places and fill in gaps to adapt it for an ABCE type model. Agents perform intertemporal optimisation based on utility functions.
+although I've taken liberty to extend and modify it in places and fill in gaps to adapt it for an ABCE type model and I've also taken influence from **Monetary policy experiments in an agent-based model with financial frictions**. Agents perform intertemporal optimisation based on utility functions.
 In the future I'd like to extend the horizon over which they plan, I received issues when doing this earlier.
 
 I built this mostly to have fun and learn at the same time, and I was able to test friedman's k-rule for inflation targeting, it was inefective in the model and
